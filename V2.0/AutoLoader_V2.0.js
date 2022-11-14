@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 ~~[AUTOLOADER V2.0]~~
 
-~ Autoloader V2.0 is a JS script designed to keep a web page refreshed and updated in given intervals .
+~ Autoloader V2.0 is a JS Plugin designed to keep a web page refreshed and updated in given intervals .
 ~ Autoloader is designed to be a plug and play type javascript plugin which has NO effect on the page DOM or Functionality.
 ~ AutoLoader heavily relies on COOKIES to keep track of neccasary variables and program states. So disbling or limiting the
   use of cookies CAN affect Autoloader's functionality.
