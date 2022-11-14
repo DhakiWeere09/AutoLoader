@@ -3,7 +3,7 @@ JavaScript Plugin that enables auto refreshing Web Pages in development time.
 
 /*
 -------------------------------------------------------------------------------------------------------------------------------
-~ AUTOLOADER is a JS script designed to keep a web page refreshed and updated in given intervals .
+~ AUTOLOADER is a JS Plugin designed to keep a web page refreshed and updated in given intervals .
 ~ Autoloader is designed to be a plug and play type javascript plugin which has NO effect on the page DOM or Functionality.
 ~ AutoLoader heavily relies on COOKIES to keep track of neccasary variables and program states. So disbling or limiting the
   use of cookies CAN affect Autoloader's functionality.
