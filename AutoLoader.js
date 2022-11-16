@@ -73,6 +73,7 @@ function eventAttach(rElem = document.body){
             rElem.addEventListener("scroll", () => {
                 createCookie(rElem.id + "_scrollPos", rElem.scrollTop);
             })
+            createCookie(rElem.id + "_scrollPos", rElem.scrollTop);
 
         }else {
             console.log("Scrollable has no ID");  // Debugging output
